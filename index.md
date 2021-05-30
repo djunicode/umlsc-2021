@@ -54,9 +54,9 @@ Exams must also be submitted through the corresponding Google Form (TBA). Commun
 
 ### **Grading**
 
-The purpose of this course is to help you learn machine learning. The purpose of the assignments is to help you learn by giving you structured opportunities for practice. The purpose of grading is primarily to give you feedback, distinguishing what you did well on from what you should work on improving.
+The purpose of this course is to help you learn machine learning. The purpose of the project and midterm is to help you learn by giving you structured opportunities for practice. The purpose of grading is primarily to give you feedback, distinguishing what you did well on from what you should work on improving.
 
-If you believe that particular assignment has been incorrectly graded, tell us as soon as possible. As a final word of advice, "what is the least amount of work I need to do in order to get the grade I want?" is a much worse way to approach higher education than "how can I learn the most from this class and from my teachers?".
+If you believe that particular submission has been incorrectly graded, tell us as soon as possible. As a final word of advice, "what is the least amount of work I need to do in order to get the grade I want?" is a much worse way to approach higher education than "how can I learn the most from this class and from my teachers?".
 
 <br>
 
@@ -106,6 +106,60 @@ Office Hours are typically unstructured sessions where the Course Staff will be 
 </ul>
 
 If you cannot make the regular office hours, or have concerns you'd rather discuss privately, please email me about making an appointment. This will not be offered on a regular basis, unless you have a strong reason to request my time.
+
+<br>
+
+### **Final Project**
+
+There will be a final project for this course that will determine 50% of your final grade. Ideally, you want to start working on the project early on and ask us for feedback on topic selection and research questions that may be a good fit for the class requirements. The goal of the project is investigating a specific application of machine learning (including deep learning).
+
+<br>
+
+### **Logistics**
+
+The project should be carried out in groups of three. If you cannot make a team yourself (feel free to use CampusWire/Discord to form teams), please write to us so we may connect you with other candidates looking to form a team.
+
+<br>
+
+### **Proposal**
+
+The proposal must be one page long and it is due in the third week of the course. It should include the following information (each point will be evaluated separately):
+
+- A description of a specific question that you want to explore. The question can be experimental, i.e. whether a certain technique works for a particular application, or theoretical, whether a certain theoretical tool can be used to analyze a data-analysis method. Be as concrete as you can.
+
+- Context for your topic, including relevant bibliographic references.
+
+- An outline of what you plan to do and a precise justification of how it relates to the question that you are studying. For experimental projects, this includes a description of the dataset you plan to use.
+
+We will provide feedback on your proposal and also allocate separate office hours sessions to discuss projects. 
+
+<br>
+
+### **Project report**
+
+The project should be written in Latex and be no more than 5 pages (not including references). It should include the following sections, which will be evaluated separately:
+
+- Introduction: What question have you been studying? Why should anyone care?
+
+- State of the art: Provide context, with relevant bibliographic references.
+
+- Methodology: How did you tackle the question? How did you modify existing methods? What datasets did you use? What theoretical tools did you apply? If you deviated from your original plan, explain why.
+
+- Results: What results did you obtain? Do they make sense? Provide a thorough analysis. Negative results are completely fine (they can be very valuable!).
+
+- Discussion: What did you find out? Do the results suggest any other interesting questions to explore?
+
+<br>
+
+### **Presentation**
+
+Projects will be presented in class. Presentations will last 5 minutes (strict limit) and have a maximum of 6 slides.
+
+<br>
+
+### **Possible topics**
+
+You may find some topics of interest among the [list of projects](https://courses.d2l.ai/berkeley-stat-157/project.html) on the Dive into Deep Learning website.
 
 <br>
 
