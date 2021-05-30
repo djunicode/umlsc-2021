@@ -1,19 +1,21 @@
 instructors:
-  - name: Albus Dumbledore
-    profile_pic: /_images/pp/dumbledore.jpg
-    webpage: https://en.wikipedia.org/wiki/Albus_Dumbledore
-  - name: Minerva McGonagall
-    profile_pic: /_images/pp/mcgonagall.jpg
+  - name: Swapneel Mehta
+    profile_pic: /_images/pp/swapneel_mehta.jpeg
+    email: swapneel.mehta@nyu.edu
 
 teaching_assistants:
-  - name: Harry Potter
-    profile_pic: /_images/pp/potter.jpg
-    webpage: https://en.wikipedia.org/wiki/Harry_Potter_(character)
+  - name: Aryan Chouhan
+    profile_pic: /_images/pp/aryan_chouhan.jpeg
+    email: chouhanaryan@yahoo.com
 
-  - name: Hermione Granger
-    profile_pic: /_images/pp/granger.jpg
-    webpage: https://en.wikipedia.org/wiki/Hermione_Granger
+  - name: Deep Gandhi
+    profile_pic: /_images/pp/deep_gandhi.jpeg
+    email: thisisdeepgandhi@gmail.com
 
-  - name: Ron Weasley
-    profile_pic: /_images/pp/weasley.jpg
-    webpage: https://en.wikipedia.org/wiki/Ron_Weasley
+  - name: Jash Mehta
+    profile_pic: /_images/pp/jash_mehta.jpeg
+    email: jashmehta3300@gmail.com
+
+  - name: Jay Gala
+    profile_pic: /_images/pp/jay_gala.jpeg
+    email: jaygala24@gmail.com

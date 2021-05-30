@@ -1,19 +1,17 @@
 # Site settings
-course_name: History of Magic
-course_description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ornare aliquam mattis. Donec hendrerit sollicitudin urna. Aliquam venenatis rutrum velit, at lobortis dui cursus a. Nam varius metus in turpis maximus, ut rhoncus tellus dictum. In aliquam tortor nec mi dapibus, sit amet vehicula dolor auctor."
-course_semester: "Fall 1998"
+course_name: Unicode Machine Learning Summer Course 2021
+course_description: 'The goal of this class is to train you in becoming a deep learning practitioner along with a working understanding of the mathematical intuition underlying the algorithms used in commonplace applications, particularly deep learning. This course, based almost entirely on the book ‘Dive into Deep Learning’, represents our attempt to make deep learning approachable, teaching you the concepts, the context, and the code. During the class, you will do data analyses and build deep neural networks with existing software, and write your own programs to implement and extend key techniques. You will also have to write reports about your analyses to provide non-technical readers an understanding of the conclusions you have drawn.'
+course_semester: 'Summer 2021'
 
-baseurl: "/jekyll-course-website-template" # the subpath of your site, e.g. /blog/
-url: "http://kazemnejad.github.io/" # the base hostname & protocol for your site
+baseurl: '/umlsc-2021' # the subpath of your site, e.g. /blog/
+url: 'http://djunicode.github.io/' # the base hostname & protocol for your site
 
-schoolname: "Hogwarts"
-schoolurl: "https://hogwarts.edu"
-twitter_username: username 
+schoolname: 'DJ Unicode'
+schoolurl: 'https://djunicode.in/'
+twitter_username: djunicode
 
 address: |
-    School of Witchcraft and Wizardry
-    Hogwarts
-    Scotland
+  DJ Unicode
 
 # Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
 # google_analytics: UA-XXXXXXXX-X
@@ -25,28 +23,27 @@ markdown: kramdown
 
 # Other options
 permalink: blog/:year/:month/:title
-excerpt_separator: "<!--more-->"
+excerpt_separator: '<!--more-->'
 
 include: ['_images', '_css']
 exclude: ['develop']
 
-dateformat: "%m/%d/%Y"
+# dateformat: '%m/%d/%Y'
 
 future: true
 collections:
-    events:
-        output: true
-    lectures:
-        output: true
-    assignments:
-        output: true
-    announcements:
-        output: false
-
+  events:
+    output: false
+  lectures:
+    output: false
+  assignments:
+    output: false
+  announcements:
+    output: false
 
 defaults:
   - scope:
-      path: ""
-      type: "assignments"
+      path: ''
+      type: 'assignments'
     values:
-      layout: "assignment"
+      layout: 'assignment'
