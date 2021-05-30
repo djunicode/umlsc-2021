@@ -99,8 +99,8 @@ Office Hours are typically unstructured sessions where the Course Staff will be 
         <div class="col col-4">Wednesday</div>
         <div class="col col-4">11:00 - 12: 00</div>
     </li>
-    <li>
-    <div class="col col-4">Thursday</div>
+    <li class="table-row">
+        <div class="col col-4">Thursday</div>
         <div class="col col-4">6:00 - 7:00</div>
     </li>
 </ul>
