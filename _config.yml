@@ -3,7 +3,7 @@ course_name: Unicode Machine Learning Summer Course 2021
 course_description: 'The goal of this class is to train you in becoming a deep learning practitioner along with a working understanding of the mathematical intuition underlying the algorithms used in commonplace applications, particularly deep learning. This course, based almost entirely on the book ‘Dive into Deep Learning’, represents our attempt to make deep learning approachable, teaching you the concepts, the context, and the code. During the class, you will do data analyses and build deep neural networks with existing software, and write your own programs to implement and extend key techniques. You will also have to write reports about your analyses to provide non-technical readers an understanding of the conclusions you have drawn.'
 course_semester: 'Summer 2021'
 
-baseurl: '/umlsc-2021/' # the subpath of your site, e.g. /blog/
+baseurl: '/umlsc-2021' # the subpath of your site, e.g. /blog/
 url: 'http://djunicode.github.io/' # the base hostname & protocol for your site
 
 schoolname: 'DJ Unicode'
