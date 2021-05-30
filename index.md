@@ -103,8 +103,9 @@ The primary textbook for the course will be the textbook [Dive Into Deep Learnin
 <br>
 
 ### **Similar Courses**
-[Tamara Broderick’s Machine Learning Course at MIT](https://people.csail.mit.edu/tbroderick/ml.html)
-[Alfredo Canziani and Yann LeCun’s Deep Learning Course at NYU](https://atcold.github.io/pytorch-Deep-Learning/) (although this has more recent, advanced topics)
+
+- [Tamara Broderick’s Machine Learning Course at MIT](https://people.csail.mit.edu/tbroderick/ml.html)
+- [Alfredo Canziani and Yann LeCun’s Deep Learning Course at NYU](https://atcold.github.io/pytorch-Deep-Learning/) (although this has more recent, advanced topics)
 
 <br>
 
