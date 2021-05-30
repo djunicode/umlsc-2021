@@ -123,7 +123,7 @@ If you are unsure about what is or is not appropriate, please ask me before subm
 
 ### **Accommodations for Students with Disabilities**
 
-For individualized academic adjustment based on a documented disability, contact the UMLSC Course Instructors `unicode [dot] mlsc [at] gmail [dot] com` 
+For individualized academic adjustment based on a documented disability, contact the UMLSC Instructors `unicode [dot] mlsc [at] gmail [dot] com` 
 
 <br>
 
@@ -138,3 +138,31 @@ At the top of [this Colab Notebook](https://colab.research.google.com/drive/1IlD
 ### **Other Iterations of the Class**
 
 Any use of solutions provided elsewhere is not only cheating, it is very easily detected cheating
+
+<br>
+
+### **A Note from the Course Instructor**
+
+It is quite insane for us to imagine successfully delivering a course based on cutting-edge research structured as a 10-14 week undertaking with a fraction of the resources and none of the financial support afforded by a large university. As such, we do not have any obligation to undertake such a massively time-consuming activity as teaching a full-fledged course would entail. Arguably, most of us might not have the expertise to do so either. The purpose of this labor is to take the first steps towards building a machine learning foundation and stimulate the growth of a healthy research community that is able to actively dissect the latest and greatest machine learning and deep learning advances from the literature. Most importantly, it is to foster the spirit of learning, exploration, and communication about computer science research among budding researchers that might not otherwise have access to such resources.
+
+My course staff and I have some collective experience with community-building. It’s been 4 years since we started [Unicode](http://djunicode.in/) to teach students software development and with some luck and a lot of hard work from mentors and mentees, we are at a self-sustaining stage with almost no external input required to grow our community and achieve positive social impact. Our hope with this course is, equivalently, to create a lasting community of individuals, some of whom might continue to do meaningful research with Unicode Research, mentor others, and also serve as teaching assistants for future iterations. 
+
+Bearing all this in mind, I request you to be gentle in your communication and expectations of the teaching assistants and myself; we would be grateful if you are proactive with your questions, especially with pointing out if/where we may be incorrect with our explanations. Finally, do cut us some slack if exams are not graded promptly. As the instructor for a first-time course, I bear all the responsibility of conveying the correct information to you and any mistake on the part of the TAs is a product of my oversight. I commit to doing my level best to stimulate and monitor the class discussions in a safe and productive manner, but I request your proactive participation (and will duly reward it) throughout the course for your benefit as well as that of your classmates.
+
+<br>
+
+### **Code of Conduct**
+
+All participants—students, staff, and volunteers in our course—are required to act in accordance with this code of conduct during the event, on recordings made to be presented as part of the event, and on official communication channels, including social media. Course Staff will enforce this code, and we expect cooperation from all participants to help ensure a safe, productive, and welcoming environment for everybody.
+
+The course commits itself to providing a workshop experience for all participants that is free from harassment, bullying, discrimination, intimidation, personal attacks, unnecessary disruption of talks or other events, retaliation, and behavior that interferes with another’s full participation or may create an inappropriate or toxic environment. This includes offensive comments related to gender, gender identity and expression, age, sexual orientation, medical condition, disability, physical appearance, race, ethnicity, religion (or lack thereof), or any other personal characteristics.
+
+Participants asked by any member of the course staff to stop any such behavior are expected to comply immediately. If a participant engages in such behavior, the organizers, after careful review where all parties involved will have an opportunity to present their side, may take any action they deem appropriate, including: a formal or informal warning to the offender, expulsion from the workshop, barring from participation in future workshops, or reporting the incident to the offender’s local institution. A response of “just joking” will not be accepted; behavior can be harassing without an intent to offend. If action is taken, an appeals process will be made available.
+
+If you have concerns related to your inclusion in the course, or observe someone else’s difficulties, or have any other concerns related to inclusion, please contact the course staff by email at unicode [dot] mlsc [at] gmail [dot] com. Reports made during the workshop will be responded to in less than 24 hours; those at other times, in less than two weeks. We are prepared and eager to help students feel safe for the duration of the course. Threats or acts of retaliation against individuals who report inappropriate conduct pursuant to this Policy or provide information in connection with a report by another individual will not be tolerated. If you believe that you have been retaliated against for such action, you may use the above procedures to report the pertinent facts. We gratefully accept feedback from everyone on policy and actions; please contact us at unicode [dot] mlsc [at] gmail [dot] com.
+
+<br>
+
+### **Sources**
+
+This page has been shamelessly copied over from [Cosma Shalizi](https://www.stat.cmu.edu/~cshalizi/uADA/) and [Carlos Fernandez Granda](https://cims.nyu.edu/~cfgranda/pages/MTDS_spring20/project.html)’s course/project description pages. Our code of conduct has been adapted from that of the [Learning Theory Alliance](https://let-all.com/code.html). The website theme is based on [jekyll-course-website-template by kazemnejad](https://github.com/kazemnejad/jekyll-course-website-template).
