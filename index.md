@@ -25,6 +25,18 @@ We will do our best to accommodate changes in the lecture schedule should a sign
 
 <br>
 
+### **Prerequisites**
+
+Although there will be sessions introducing many machine learning concepts from the ground up, we will by and large assume that you have a basic familiarity with several types of math: calculus, matrix and vector algebra, and basic probability. You don’t need to be an expert in all these areas, but you will need to be conversant in each, and to understand:
+
+- Basic probability and statistics - For example, we assume you know how to find the mean and variance of a set of data, and that you understand basic notions such as conditional probabilities and Bayes rule. During the class, you might be asked to calculate the probability of a data set with respect to a given probability distribution.
+
+- Basic calculus - For example, we rely on you being able to calculate derivatives and partial derivatives. During the class we will sometimes calculate derivatives (gradients) of functions involving several variables.
+
+- Linear algebra - For example, we assume you know how to multiply vectors and matrices, and that you understand matrix inversion.
+
+<br>
+
 ### **Homework**
 
 We have decided not to keep weekly homeworks for the duration of this course. This is to allow the teaching assistants the time and bandwidth to focus on delivering quality recitations without being bogged down by grading duties.
