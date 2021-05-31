@@ -31,8 +31,8 @@ layout: default
                 {% for ins in site.data.people.instructors %}
                 <div class="image--cover-container">
                     <img src="{{ins.profile_pic | prepend: site.baseurl }}" class="image--cover">
-                    {% if ins.email %}
-                        <p><a href="mailto:{{ ins.email }}">{{ins.name}}</a></p>
+                    {% if ins.webpage %}
+                        <p><a href="{{ ins.webpage }}">{{ins.name}}</a></p>
                     {% else %}
                         <p>{{ins.name}}</p>
                     {% endif %}
@@ -41,14 +41,14 @@ layout: default
             </div>
         </div>
 
-        <div style="display: flex;flex-direction: column;flex-basis: 100%;flex: 2;">
+        <div style="display: flex;flex-direction: column;flex-basis: 100%;flex: 3;">
             <div class="profile-pic-gallary ">
                 <h3>Teaching Assistants</h3>
                 {% for ta in site.data.people.teaching_assistants %}
                 <div class="image--cover-container">
                     <img src="{{ta.profile_pic | prepend: site.baseurl }}" class="image--cover">
-                    {% if ta.email %}
-                        <p><a href="mailto:{{ ta.email }}">{{ta.name}}</a></p>
+                    {% if ta.webpage %}
+                        <p><a href="{{ ta.webpage }}">{{ta.name}}</a></p>
                     {% else %}
                         <p>{{ta.name}}</p>
                     {% endif %}
