@@ -2,6 +2,11 @@
 layout: home
 title: Home
 ---
+## **Sponsors**
+
+![Google AI Research](/_images/google.png)
+
+<br>
 
 ## **Course Mechanics**
 
