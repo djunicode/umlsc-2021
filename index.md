@@ -6,6 +6,8 @@ title: Home
 
 ![Google AI Research](/_images/google.png)
 
+We're thankful to Google AI Research India for their support in organizing the course.
+
 <br>
 
 ## **Course Mechanics**
