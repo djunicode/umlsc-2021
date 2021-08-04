@@ -2,15 +2,16 @@
 type: lecture
 # date: 2018-09-16T8:00:00+4:30
 week: 3
-title: "Multilayer Perceptron, Deep Neural Networks, Backpropagation"
+title: "Maximum Likelihood Estimation, MAP Inference, and Softmax Regression"
 # tldr: "Gradients, Chain Rule, Automatic Differentiation"
 # thumbnail: /static_files/presentations/lec.jpg
-# links: 
-#     - url: /static_files/presentations/lec.zip
-#       name: notes
+links: 
+    - url: https://youtu.be/mRCtYvzUYNA
+      name: Lecture
 #     - url: /static_files/presentations/code.zip
 #       name: codes
 #     - url: https://google.com
 #       name: slides
 ---
-Model Selection, Weight Decay, Dropout
+Learning from Data with Deep Neural Networks
+[[Recitation](https://youtu.be/0IPk5K78m8M)]

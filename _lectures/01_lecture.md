@@ -2,7 +2,7 @@
 type: lecture
 # date: 2018-09-16T8:00:00+4:30
 week: 1
-title: "Introduction to Deep Learning, Linear Algebra Review"
+title: "Deep Learning Applications and Linear Algebra"
 # tldr: "Introduction to Deep Learning, Linear Algebra Review"
 # thumbnail: /static_files/presentations/lec.jpg
 links: 
@@ -11,5 +11,5 @@ links:
 #     - url: https://google.com
 #       name: slides
 ---
-Gradients, Chain Rule, Automatic Differentiation
+Python, Numpy, Pytorch, and Autograd
 [[Recitation](https://youtu.be/DpEwItAkxB4)]

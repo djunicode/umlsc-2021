@@ -2,15 +2,16 @@
 type: lecture
 # date: 2018-09-16T8:00:00+4:30
 week: 4
-title: "Convolutional Neural Networks, Applications of CNNs"
+title: "Multi-layer Perceptrons, Model Complexity, Regularization, and Dropout"
 # tldr: "Gradients, Chain Rule, Automatic Differentiation"
 # thumbnail: /static_files/presentations/lec.jpg
-# links: 
-#     - url: /static_files/presentations/lec.zip
-#       name: notes
+links: 
+    - url: https://youtu.be/w03JUzXWGzE
+      name: Lecture
 #     - url: /static_files/presentations/code.zip
 #       name: codes
 #     - url: https://google.com
 #       name: slides
 ---
-ResNet Architecture
+Inference and Model Selection
+[[Recitation](https://youtu.be/649FhWSRUY0)]

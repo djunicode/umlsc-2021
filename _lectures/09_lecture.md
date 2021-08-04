@@ -1,8 +1,8 @@
 ---
 type: lecture
 # date: 2018-09-16T8:00:00+4:30
-week: ''
-title: "TBA (depending on progress)"
+week: 9
+title: "Attention Mechanisms and Transformers"
 # tldr: "Gradients, Chain Rule, Automatic Differentiation"
 # thumbnail: /static_files/presentations/lec.jpg
 # links: 
@@ -13,3 +13,4 @@ title: "TBA (depending on progress)"
 #     - url: https://google.com
 #       name: slides
 ---
+Word2Vec, FastText, BERT
