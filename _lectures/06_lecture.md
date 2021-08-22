@@ -13,4 +13,4 @@ links:
 #     - url: https://google.com
 #       name: slides
 ---
-Tricks for CNN Training
+-
