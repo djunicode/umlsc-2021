@@ -14,4 +14,4 @@ links:
 #       name: slides
 ---
 Gradient Descent, Numerical Stability, and GPUs
-[[Recitation](https://youtu.be/3mYiz_k8FfU)]
+[[Recitation](https://youtu.be/3mYiz_k8FfU)] [[Colab Notebook](https://colab.research.google.com/drive/1x0qGup_gttzE-vgSt4XA_kvwGeyqj3sS?usp=sharing)]

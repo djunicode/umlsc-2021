@@ -12,4 +12,4 @@ links:
 #       name: slides
 ---
 Python, Numpy, Pytorch, and Autograd
-[[Recitation](https://youtu.be/DpEwItAkxB4)]
+[[Recitation](https://youtu.be/DpEwItAkxB4)] [[Colab Notebook 1](https://colab.research.google.com/drive/1yo2-fI0S7sLD-XFC6UEHvpaHVC1ZrlAo?usp=sharing)] [[Colab Notebook 2](https://colab.research.google.com/drive/1roeWCICMkKleVMVwzue1Ql_lvkMoLCv5)] [[Colab Notebook 3](https://colab.research.google.com/drive/1qHkwN7VPj9aDtRPg0fkYCEbv2ZURBMYw?usp=sharing)]
