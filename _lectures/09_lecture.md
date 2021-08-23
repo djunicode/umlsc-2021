@@ -13,4 +13,5 @@ links:
 #     - url: https://google.com
 #       name: slides
 ---
--
+Language Models, Neural Machine Translation, Attention, and Transformers
+[[Recitation](https://youtu.be/n3JL4VMIKNE)] [[Colab Notebook - Neural Machine Translation](https://colab.research.google.com/drive/1lQeVWtBqJCBaGbgR6_7GRDB6EVydTNG-)]

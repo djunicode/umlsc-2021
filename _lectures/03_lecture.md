@@ -14,4 +14,4 @@ links:
 #       name: slides
 ---
 Learning from Data with Deep Neural Networks
-[[Recitation](https://youtu.be/0IPk5K78m8M)]
+[[Recitation](https://youtu.be/0IPk5K78m8M)] [[Colab Notebook - Neural Networks with PyTorch](https://colab.research.google.com/drive/1NWhcpRVOFAFK4DzSmEXDjkUodcJdsjXY)]

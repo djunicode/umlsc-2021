@@ -14,4 +14,4 @@ links:
 #       name: slides
 ---
 Sequences and Language Models
-[[Recitation](https://youtu.be/p2POe3oI7o4)]
+[[Recitation](https://youtu.be/p2POe3oI7o4)] [[Colab Notebook - Sequence Models](https://colab.research.google.com/drive/1lezXVCU-htZ390dvrDboUezVEmoQ0nC-)]

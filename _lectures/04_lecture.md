@@ -14,4 +14,4 @@ links:
 #       name: slides
 ---
 Inference and Overfitting
-[[Recitation](https://youtu.be/649FhWSRUY0)] [[Colab Notebook](https://colab.research.google.com/drive/1-CE1_Yi9mYkvbdYdohRfTtqrC-jZjAyf#scrollTo=_3h5u1bPcuEJ)]
+[[Recitation](https://youtu.be/649FhWSRUY0)] [[Colab Notebook - Inference and Overfitting](https://colab.research.google.com/drive/1-CE1_Yi9mYkvbdYdohRfTtqrC-jZjAyf)]

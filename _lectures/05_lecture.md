@@ -14,4 +14,4 @@ links:
 #       name: slides
 ---
 Convolutional Neural Networks and Architectures
-[[Recitation](https://youtu.be/mKhTH05SGjI)] [[Colab Notebook](https://colab.research.google.com/drive/1YW4GwBdoZiJ-AFgQe6sT27boaesY06Mm?usp=sharing)]
+[[Recitation](https://youtu.be/mKhTH05SGjI)] [[Colab Notebook](https://colab.research.google.com/drive/1YW4GwBdoZiJ-AFgQe6sT27boaesY06Mm)]
