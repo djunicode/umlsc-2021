@@ -21,7 +21,7 @@ Data Collection and Classification of Sports Injury Data using Twitter [[Present
 
 ## 2. Namespace
 
-### Shwe Han*, Tanish Sawant*, Muskaan Chopra, Anshul Gupta (* represents equal contribution as first authors)
+### Shwe Han\*, Tanish Sawant\*, Muskaan Chopra, Anshul Gupta (* represents equal contribution as first authors)
 
 Sarcasm Detection using Different Machine Learning Approaches [[Presentation]](/_projects/Namespace.pdf)
 
