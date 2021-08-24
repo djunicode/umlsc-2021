@@ -17,19 +17,19 @@ The projects were ranked on the basis of Intellectual Merit, Execution or Experi
 
 ### Joe Datz, Jhagrut Lalwani
 
-Data Collection and Classification of Sports Injury data using Twitter [[Presentation]](/_projects/Twitter-bot.pdf)
+Data Collection and Classification of Sports Injury Data using Twitter [[Presentation]](/_projects/Twitter-bot.pdf)
 
 ## 2. Namespace
 
 ### Shwe Han*, Tanish Sawant*, Muskaan Chopra, Anshul Gupta (* represents equal contribution as first authors)
 
-Sarcasm Detection using different Machine Learning Approaches [[Presentation]](/_projects/Namespace.pdf)
+Sarcasm Detection using Different Machine Learning Approaches [[Presentation]](/_projects/Namespace.pdf)
 
 ## 3. MLScouts
 
 ### Saahil Rachh, Priyambi Hiran, Shrey Parekh, Devang Shah
 
-Image Classification system for Identification of SAARC Countries using their Flags [[Presentation]](/_projects/MLScouts.pdf)
+Image Classification System for Identification of SAARC Countries using their Flags [[Presentation]](/_projects/MLScouts.pdf)
 
 <br>
 
