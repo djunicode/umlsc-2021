@@ -54,3 +54,10 @@ Research Paper Recommendation System using Document Level Embedding [[Presentati
 ### Nemil Shah
 
 Brain Tumor Segmentation using Attention U-Net [[Presentation]](/_projects/Brats.pdf)
+
+## 4. Hyper-Parameters
+
+### Saili Myana, Sai Rithvik Kanakamedala, Jahnvi Bhagiya
+
+DengAI: Predicting Disease Spread [[Presentation]](/_projects/Hyper-Parameters.pdf)
+
